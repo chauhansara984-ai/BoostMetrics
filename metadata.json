@@ -1,0 +1,6 @@
+{
+  "name": "BoostMetrics",
+  "description": "High-performance digital marketing agency portal and interactive growth dashboard for BoostMetrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
